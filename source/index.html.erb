@@ -1,0 +1,31 @@
+---
+title: Game Collection
+---
+
+<h2>Nintendo</h2>
+<ul>
+  <% sub_pages('platforms/nintendo').each do |resource| %>
+    <li><%= link_to resource.data.title, resource.url %></li>
+  <% end %>
+</ul>
+
+<h2>Sega</h2>
+<ul>
+  <% sub_pages('platforms/sega').each do |resource| %>
+    <li><%= link_to resource.data.title, resource.url %></li>
+  <% end %>
+</ul>
+
+<h2>Sony</h2>
+<ul>
+  <% sub_pages('platforms/sony').each do |resource| %>
+    <li><%= link_to resource.data.title, resource.url %></li>
+  <% end %>
+</ul>
+
+<h2>Microsoft</h2>
+<ul>
+  <% sub_pages('platforms/microsoft').each do |resource| %>
+    <li><%= link_to resource.data.title, resource.url %></li>
+  <% end %>
+</ul>
