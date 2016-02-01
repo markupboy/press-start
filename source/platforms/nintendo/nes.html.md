@@ -22,6 +22,7 @@ title: NES
 * Chip and Dale's Rescue Rangers
 * Cobra Triangle
 * Deja Vu
+* Disney's Adventures in the Magic Kingdom
 * Duck Tales
 * Excitebike
 * Golf
@@ -37,6 +38,7 @@ title: NES
 * Ninja Gaiden 2
 * Paperboy
 * Punisher, The
+* Quattro Adventure
 * R.C. Pro-Am
 * Rad Racer
 * Simpsons: Bart vs. the Space Mutants, The
