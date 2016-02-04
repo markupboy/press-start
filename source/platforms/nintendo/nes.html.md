@@ -27,6 +27,7 @@ title: NES
 * Excitebike
 * Golf
 * Hogan's Alley
+* Kid Icarus
 * Legend of Zelda, The
 * Little Nemo: Dream Master
 * Marble Madness
@@ -43,6 +44,7 @@ title: NES
 * Rad Racer
 * Simpsons: Bart vs. the Space Mutants, The
 * Simpsons: Bart vs. the World
+* Space Shuttle Project
 * Super Kaizo Bros. 3
 * Super Mario Bros. 2
 * Super Mario Bros. 3
