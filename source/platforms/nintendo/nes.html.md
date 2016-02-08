@@ -7,6 +7,7 @@ title: NES
 * 10-yard fight
 * 720°
 * Adventures of Link, The
+* Air Fortress
 * Anticipation
 * Back to the Future
 * Bandai Golf Challenge Pebble Beach
@@ -21,6 +22,7 @@ title: NES
 * Castelvania III: Dracula's Curse
 * Chip and Dale's Rescue Rangers
 * Cobra Triangle
+* Contra
 * Deja Vu
 * Disney's Adventures in the Magic Kingdom
 * Duck Tales
@@ -45,6 +47,8 @@ title: NES
 * Simpsons: Bart vs. the Space Mutants, The
 * Simpsons: Bart vs. the World
 * Space Shuttle Project
+* Star Soldier
+* Stealth
 * Super Kaizo Bros. 3
 * Super Mario Bros. 2
 * Super Mario Bros. 3
