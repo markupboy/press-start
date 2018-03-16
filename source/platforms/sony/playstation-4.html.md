@@ -8,18 +8,33 @@ title: Playstation 4
 * Battlefield 4
 * Bloodborne
 * Call of Duty: Black Ops 3
+* Crash Bandicoot Trilogy
+* Dark Souls 2
 * Dead or Alive 5: Last Round
+* Dead Rising
 * Destiny
+* Destiny 2
+* Doom
 * Dragon Age Inquisition
+* F1 2015
+* F1 2016
+* F1 2017
 * Fallout 4
 * Far Cry 4
+* Far Cry Primal
+* Final Fantasy XV
+* Gran Turismo Sport
+* Horizon Zero Dawn
 * inFamous Second Son
 * Just Cause 3
 * Killzone: Shadow Fall
+* Lego Harry Potter Collection
 * Metal Gear Solid V: The Phantom Pain
 * Need for Speed Rivals
+* Ratchet and Clank
 * Rory McIlroy PGA Tour
 * Shadows of Mordor
+* South Park: The Fractured but Whole
 * Star Wars Battlefront
 * The Witcher 3: Wild Hunt
 * Watchdogs

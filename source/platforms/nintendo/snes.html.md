@@ -10,6 +10,7 @@ title: SNES
 * Clayfighter Tournament Edition
 * Contra III
 * Donkey Kong Country
+* Donkey Kong Country 2: Diddy Kong's Quest
 * F-Zero
 * Final Fantasy III
 * Final Fight
@@ -21,6 +22,7 @@ title: SNES
 * Legend of Zelda: A Link to the Past, The
 * Mario Paint
 * Mechwarrior
+* Mega Man X
 * Mortal Kombat
 * NBA Jam
 * Out of this World
@@ -40,12 +42,15 @@ title: SNES
 * Super Ghoul's 'n Ghosts
 * Super Mario All-Stars
 * Super Mario Kart
+* Super Mario RPG
 * Super Mario World
+* Super Mario World 2: Yoshi's Island
 * Super Metroid
 * Super R-Type
 * Super Star Wars
 * Super Star Wars: Return of the Jedi
 * Super Star Wars: The Empire Strikes Back
+* Super Turrican: Directors Cut
 * The Simpson's Bart's Nightmare
 * Tiny Toon Adventures Buster Busts Loose
 * Turtles IV
