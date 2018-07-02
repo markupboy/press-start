@@ -7,6 +7,7 @@ title: Playstation
 * Alundra
 * Battle Arena Toshinden
 * Beyond the Beyond
+* Bushido Blade
 * Castlevania Symphony of the Night
 * Command & Conquer
 * Cool Boarders 2
@@ -20,6 +21,7 @@ title: Playstation
 * Final Fantasy VII
 * Final Fantasy VIII
 * Gran Turismo
+* Gran Turismo 2
 * Gundam Battle Assault
 * Jet Moto
 * MDK

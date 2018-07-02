@@ -19,6 +19,7 @@ title: Playstation 2
 * Grand Theft Auto Vice City
 * Guitar Hero
 * Guitar Hero III
+* Hunter: The Reckoning
 * Jak 3
 * Jak and Daxter
 * Jak II
@@ -28,6 +29,7 @@ title: Playstation 2
 * Max Payne
 * Mega Man X Collection
 * Metal Gear Solid 2
+* Metal Gear Solid 3: Snake Eater
 * NCAA Football 2004
 * Prince of Persia: THe Sands of Time
 * Ratchet and Clank
@@ -40,4 +42,5 @@ title: Playstation 2
 * Tiger Woods PGA Tour 2003
 * Twisted Metal: Black
 * Viewtiful Joe 2
+* Wipeout Fusion
 * Xenosaga

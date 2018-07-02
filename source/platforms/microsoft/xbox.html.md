@@ -5,7 +5,9 @@ title: XBox
 #####XBox
 
 * Call of Duty 2: Big Red One
+* Crimson Skies
 * Dead or Alive: XTreme Beach Volleyball
+* Forza Motorsport
 * Guilty Gear X2 #Reload
 * Gun Metal
 * Gunvalkyrie

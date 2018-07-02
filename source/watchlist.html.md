@@ -30,20 +30,17 @@ title: Titles to watch for
 
 #####Nintendo 64
 
-- Mario Kart 64
 - Mario Tennis
 - Super Smash Bros.
 - The Legend of Zelda: Majora's Mask
 
 #####Nintendo Gamecube
 
-- **007 Nightfire**
-- **Pikmin**
-- **Soul Caliber 2**
 - Animal Crossing
 - Eternal Darkness
 - F-Zero GX
 - Metroid Prime 2
+- Pikmin
 - Resident Evil 0
 - Super Monkey Ball Series
 
@@ -100,13 +97,11 @@ title: Titles to watch for
 - **Street Fighter EX Plus Alpha**
 - Ape Escape
 - Breath of Fire Series
-- Bushido Blade
 - Chrono Cross
 - Clock Tower
 - Crash Bandicoot 2
 - Crash Bandicoot 3
 - Einhander
-- Gran Turismo 2
 - Grandia
 - Intelligent Qube
 - Lunar Series
@@ -119,9 +114,7 @@ title: Titles to watch for
 #####Sony Playstation 2
 
 - **Fatal Frame 2**
-- Metal Gear Solid 3
-- Wipeout Fusion
 
 #####Microsoft XBox
 
-- Hunter: The Reckoning
+None at this time
