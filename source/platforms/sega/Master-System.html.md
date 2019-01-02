@@ -4,6 +4,8 @@ title: Master System
 
 #####Master System
 
-* Double Dragon
-* Shinoobi
-* Zaxxon 3-D
+- Alex Kidd: The Lost Stars
+- Double Dragon
+- Outrun
+- Shinoobi
+- Zaxxon 3-D

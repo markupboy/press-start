@@ -4,12 +4,12 @@ title: 3DS
 
 #####3DS
 
-* Animal Crossing: New Leaf
-* Fire Emblem Awakening
-* Legend of Zelda: A Link Between Worlds, The
-* Mario Kart 7
-* Mario Kart 7
-* New Super Mario Bros. 2
-* Pokemon X
-* Proffesor Layton and the Miracle Mask
-* Super Mario 3D Land
+- Animal Crossing: New Leaf
+- Fire Emblem Awakening
+- Legend of Zelda: A Link Between Worlds, The
+- Mario Kart 7
+- Mario Kart 7
+- New Super Mario Bros. 2
+- Pokemon X
+- Proffesor Layton and the Miracle Mask
+- Super Mario 3D Land

@@ -46,7 +46,6 @@ title: Titles to watch for
 
 #####Sega Genesis
 
-- Altered Beast
 - Castlevania Bloodlines
 - Comix Zone
 - Contra: Hard Corps
@@ -55,13 +54,10 @@ title: Titles to watch for
 - Mutant League Football
 - Mutant League Hockey
 - Phantasy Star
-- Rocky Knight Adventures
 - Shining Series
 - Shinobi Series
-- Star Control
 - Streets of Rage
 - Toe Jam and Earl
-- Vectorman 2
 
 #####Sega CD
 

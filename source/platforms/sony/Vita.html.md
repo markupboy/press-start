@@ -4,4 +4,4 @@ title: PS Vita
 
 #####Vita
 
-* Persona 4 Golden
+- Persona 4 Golden
