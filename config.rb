@@ -1,77 +1,41 @@
-###
-# Compass
-###
+# encoding: utf-8
 
-# Change Compass configuration
-# compass_config do |config|
-#   config.output_style = :compact
-# end
+require "./lib/custom_helpers"
+helpers CustomHelpers
 
-###
-# Page options, layouts, aliases and proxies
-###
+require 'html-proofer'
 
-# Per-page layout changes:
 #
-# With no layout
-# page "/path/to/file.html", :layout => false
+# Use webpack for assets
 #
-# With alternative layout
-# page "/path/to/file.html", :layout => :otherlayout
-#
-# A path which all have the same layout
-# with_layout :admin do
-#   page "/admin/*"
-# end
-
-# Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
-#  :which_fake_page => "Rendering a fake page with a local variable" }
-
-###
-# Helpers
-###
-
-# Automatic image dimensions on image_tag helper
-# activate :automatic_image_sizes
+activate :external_pipeline,
+         name: :webpack,
+         command: build? ?  "yarn run build" : "yarn run start",
+         source: ".tmp/dist",
+         latency: 1
 
 # Reload the browser automatically whenever files change
-# configure :development do
-#   activate :livereload
-# end
+configure :development do
+  activate :livereload
+end
 
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
+set :css_dir, 'assets/stylesheets'
+set :js_dir, 'assets/javascript'
+set :images_dir, 'images'
 
 activate :directory_indexes
 
-require "lib/custom_helpers"
-helpers CustomHelpers
-
-set :css_dir, 'stylesheets'
-
-set :js_dir, 'javascripts'
-
-set :images_dir, 'images'
-
 # Build-specific configuration
 configure :build do
-  # For example, change the Compass output style for deployment
-  # activate :minify_css
+  # Enable cache buster (except for images)
+  activate :asset_hash, ignore: [/\.jpg\Z/, /\.png\Z/]
+end
 
-  # Minify Javascript on build
-  # activate :minify_javascript
-
-  # Enable cache buster
-  # activate :asset_hash
-
-  # Use relative URLs
-  # activate :relative_assets
-
-  # Or use a different image path
-  # set :http_prefix, "/Content/images/"
+after_build do |builder|
+  # begin
+  #   HTMLProofer.check_directory(config[:build_dir], { :assume_extension => true }).run
+  # rescue RuntimeError => e
+  #   puts e
+  #   exit(1)
+  # end
 end
