@@ -4,7 +4,7 @@ var Clean = require("clean-webpack-plugin");
 
 module.exports = {
   entry: {
-    markupboy: "./assets/javascript/bootstrap.js"
+    pressstart: "./assets/javascript/bootstrap.js"
   },
 
   resolve: {
