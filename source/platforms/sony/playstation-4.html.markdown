@@ -33,9 +33,12 @@ title: Playstation 4
 - Need for Speed Rivals
 - Ratchet and Clank
 - Rory McIlroy PGA Tour
+- Shadow of the Colossu
 - Shadows of Mordor
 - South Park: The Fractured but Whole
 - Star Wars Battlefront
+- The Last of Us Remastered
 - The Witcher 3: Wild Hunt
+- Uncharted 4: A Thief's End
 - Watchdogs
 - Wolfenstein: The New Order

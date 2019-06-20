@@ -18,4 +18,4 @@ title: N64
 - Super Mario 64
 - Super Mario 64
 - Turok
-- Wave Race 65
+- Wave Race 64
