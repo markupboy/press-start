@@ -1,4 +1,4 @@
-import "boostrap";
+import "../stylesheets/bootstrap.css";
 
 /*!
  * Bootstrap v4.0.0-alpha.2 (http://getbootstrap.com)
