@@ -31,6 +31,7 @@ title: Playstation 4
 - Lego Harry Potter Collection
 - Metal Gear Solid V: The Phantom Pain
 - Need for Speed Rivals
+- Pillars of Eternity
 - Ratchet and Clank
 - Rory McIlroy PGA Tour
 - Shadow of the Colossu

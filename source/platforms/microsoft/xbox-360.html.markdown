@@ -42,6 +42,7 @@ title: XBox 360
 - Halo 3
 - Halo ODST
 - Halo Reach
+- Halo Wars
 - King of Fighters XII, The
 - Left 4 Dead
 - Left 4 Dead 2
