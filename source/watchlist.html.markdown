@@ -38,11 +38,9 @@ title: Titles to watch for
 
 - Animal Crossing
 - Eternal Darkness
-- F-Zero GX
 - Metroid Prime 2
 - Pikmin
 - Resident Evil 0
-- Super Monkey Ball Series
 
 #####Sega Genesis
 
@@ -93,7 +91,6 @@ title: Titles to watch for
 - **Street Fighter EX Plus Alpha**
 - Ape Escape
 - Breath of Fire Series
-- Chrono Cross
 - Clock Tower
 - Crash Bandicoot 2
 - Crash Bandicoot 3
