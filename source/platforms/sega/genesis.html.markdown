@@ -7,11 +7,15 @@ title: Genesis
 - 6-Pack
 - Aladdin
 - Altered Beast
+- Batman Forever
+- Batman Returns
 - Battletoads / Double Dragon
+- Cyborg Justice
 - Dynamite Heady
 - Earthworm Jim
 - Ecco the Dolphin
 - Ecco the Tides of Time
+- Golden Axe II
 - Hard Drivin'
 - Judge Dredd
 - Jungle Strike
@@ -21,6 +25,9 @@ title: Genesis
 - Mega Man: The Wily Wars
 - Mortal Kombat
 - Mortal Kombat
+- Mortal Kombat II
+- Mortal Kombat III
+- NBA Jam
 - NHL '94
 - Primal Rage
 - Road Rash II
@@ -29,6 +36,7 @@ title: Genesis
 - Shadowrun
 - Shinobi III
 - Sonic & Knuckles
+- Sonic 3D Blast
 - Sonic Spinball
 - Sonic the Hedgehog
 - Sonic the Hedgehog
@@ -38,7 +46,10 @@ title: Genesis
 - Sonic the Hedgehog 3
 - Spider-man Venom Maximum Carnage
 - Star Control
+- Street Fighter II Special Champion Edition
 - Strider
+- Super Hang-On
+- Taz-Mania
 - Urban Strike
 - Vectorman
 - Vectorman 2

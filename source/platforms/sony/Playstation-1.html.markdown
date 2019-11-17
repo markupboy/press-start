@@ -9,8 +9,10 @@ title: Playstation
 - Beyond the Beyond
 - Bushido Blade
 - Castlevania Symphony of the Night
+- Chrono Cross
 - Command & Conquer
 - Cool Boarders 2
+- Cool Boarders 3
 - Crash Bandicoot
 - Die Hard Trilogy
 - Driver

@@ -11,6 +11,7 @@ title: SNES
 - Contra III
 - Donkey Kong Country
 - Donkey Kong Country 2: Diddy Kong's Quest
+- Earthworm Jim 2
 - F-Zero
 - Final Fantasy III
 - Final Fight
@@ -43,6 +44,7 @@ title: SNES
 - Super Mario All-Stars
 - Super Mario Kart
 - Super Mario RPG
+- Super Mario World
 - Super Mario World
 - Super Mario World 2: Yoshi's Island
 - Super Metroid

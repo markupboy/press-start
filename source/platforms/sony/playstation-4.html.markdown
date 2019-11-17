@@ -18,11 +18,14 @@ title: Playstation 4
 - Dragon Age Inquisition
 - F1 2015
 - F1 2016
-- F1 2017
+- F1 2018
+- F1 2019
 - Fallout 4
 - Far Cry 4
+- Far Cry 5
 - Far Cry Primal
 - Final Fantasy XV
+- God of War
 - Gran Turismo Sport
 - Horizon Zero Dawn
 - inFamous Second Son
@@ -31,12 +34,14 @@ title: Playstation 4
 - Lego Harry Potter Collection
 - Metal Gear Solid V: The Phantom Pain
 - Need for Speed Rivals
+- Persona 5
 - Pillars of Eternity
 - Ratchet and Clank
 - Rory McIlroy PGA Tour
 - Shadow of the Colossu
 - Shadows of Mordor
 - South Park: The Fractured but Whole
+- Spider-Man
 - Star Wars Battlefront
 - The Last of Us Remastered
 - The Witcher 3: Wild Hunt

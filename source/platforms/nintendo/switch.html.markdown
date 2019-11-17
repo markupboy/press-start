@@ -10,6 +10,7 @@ title: Switch
 - Disgaea 5 Complete
 - Donky Kong Tropical Freeze
 - Legend of Zelda: Breath of the Wild, The
+- Legend of Zelda: Link's Awakening, The
 - Mario Kart 8 Deluxe
 - Splatoon 2
 - Super Bomberman R

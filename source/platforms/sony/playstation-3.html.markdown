@@ -5,7 +5,7 @@ title: Playstation 3
 #####Playstation 3
 
 - 3D Dot Game Heros
-- Assasin's Greec
+- Assasin's Creed
 - Batman Arkham Asylum
 - Batman Arkham City
 - Catherine
@@ -22,6 +22,7 @@ title: Playstation 3
 - Killzone 2
 - Lost Planet
 - Metal Gear Solid The Legacy Collection
+- Prototype
 - Ratchet and Clank Future: A Crack in Time
 - Ratchet and Clank Future: Into the Nexus
 - Ratchet and Clank Future: Tools of Destruction

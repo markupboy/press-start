@@ -11,5 +11,6 @@ title: 3DS
 - Mario Kart 7
 - New Super Mario Bros. 2
 - Pokemon X
+- Pokemon Sun
 - Proffesor Layton and the Miracle Mask
 - Super Mario 3D Land

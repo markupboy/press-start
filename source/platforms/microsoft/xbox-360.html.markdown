@@ -5,7 +5,7 @@ title: XBox 360
 #####XBox 360
 
 - Ace Combat: Assualt Horizon
-- Ace Combay 6
+- Ace Combat 6
 - Bayonetta
 - Bioshock
 - Bioshock 2
