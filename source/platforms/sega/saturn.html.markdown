@@ -1,5 +1,5 @@
 ---
-title: Sega CD
+title: Sega Saturn
 ---
 
 #####Sega Saturn
