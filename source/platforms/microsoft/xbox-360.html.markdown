@@ -6,6 +6,7 @@ title: XBox 360
 
 - Ace Combat: Assualt Horizon
 - Ace Combat 6
+- Assassin's Creed II (Digital)
 - Bayonetta
 - Bioshock
 - Bioshock 2
@@ -20,6 +21,7 @@ title: XBox 360
 - Call of Duty Black Ops II
 - Call of Duty Modern Warfare 2
 - Call of Duty Modern Warfare 3
+- Crackdown (Digital)
 - Dark Souls
 - Dead Island
 - Dead or Alive 4
@@ -28,6 +30,7 @@ title: XBox 360
 - Dead Space 2
 - Deathsmiles
 - Deus Ex Human Revolution
+- Fable III (Digital)
 - Far Cry 3
 - Forza Horizon
 - Forza Motorsport 2
@@ -36,6 +39,7 @@ title: XBox 360
 - Gears of War
 - Gears of War 2
 - Gears of War 3
+- Geometry Wars Retro Evolved (Digital)
 - Grand Theft Auto IV
 - Grand Theft Auto V
 - Halo 3
@@ -43,6 +47,7 @@ title: XBox 360
 - Halo ODST
 - Halo Reach
 - Halo Wars
+- Ikaruga (Digital)
 - King of Fighters XII, The
 - Left 4 Dead
 - Left 4 Dead 2
@@ -54,12 +59,14 @@ title: XBox 360
 - Mirror's Edge
 - Need for Speed: Most Wanted
 - Overlord
+- Persona 4 Arena (Digital)
 - Project Gotham Racing 3
 - Rage
 - Rainbow Six Vegas
 - Red Dead Redemption
 - Resident Evil 5
 - Shadowrun
+- Soul Calibur II (Digital)
 - Soul Calibur IV
 - Soul Calibur V
 - South Park The Stick of Truth
@@ -72,6 +79,8 @@ title: XBox 360
 - Tom Clancy's Ghost Recon Advanced Warrior
 - Tomb Raider
 - Too Human
+- Trials Evolution (Digital)
+- Walking Dead, The (Digital)
 - Ultimate Marvel vs Capcom 3
 - Ultra Street Fighter IV
 - Virtua Fighter 5 Online
