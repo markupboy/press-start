@@ -39,7 +39,6 @@ title: Titles to watch for
 - Animal Crossing
 - Eternal Darkness
 - Metroid Prime 2
-- Pikmin
 - Resident Evil 0
 
 #####Sega Genesis
