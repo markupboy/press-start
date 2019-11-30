@@ -26,6 +26,7 @@ title: XBox One
 - Halo: The Master Chief Collection
 - Halo 5 (Digital)
 - Need for Speed Heat
+- Outer Worlds, The
 - Player Unknown's Battlegrounds  (Digital)
 - Rare Replay
 - Rocket League (Digital)
