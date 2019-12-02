@@ -32,6 +32,7 @@ title: Playstation 4
 - Just Cause 3
 - Killzone: Shadow Fall
 - Lego Harry Potter Collection
+- MediEvil
 - Metal Gear Solid V: The Phantom Pain
 - Need for Speed Rivals
 - Persona 5
