@@ -6,6 +6,7 @@ title: Titles to watch for
 
 #####Nintendo NES
 
+- Base Wars
 - Double Dragon Series
 - Final Fantasy
 - Ghostbusters
