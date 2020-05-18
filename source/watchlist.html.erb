@@ -1,0 +1,28 @@
+---
+title: Titles to watch for
+---
+
+<% data.watchlist.systems.each do |system| %>
+
+<h5><%= system.name %></h5>
+
+<ul>
+  <% if system.owned %> 
+    <% system.owned.each do |game| %>
+      <li>
+        <%= partial(:search_link, :locals => { :game => game, :owned => true }) %>
+      </li>
+    <% end %>
+  <% end %>
+  <% if system.games %> 
+    <% system.games.each do |game| %>
+      <li>
+        <a target="_blank" href="https://www.lukiegames.com/search.asp?q=<%= game %>">
+          <%= game %>
+        </a>
+      </li>
+    <% end %>
+  <% end %>
+</ul>
+
+<% end %>

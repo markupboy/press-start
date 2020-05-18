@@ -1,0 +1,110 @@
+systems:
+  - name: "Nintendo NES"
+    games:
+      - "Base Wars"
+      - "Double Dragon Series"
+      - "Final Fantasy"
+      - "Ghostbusters"
+      - "Lolo Series"
+      - "Mega Man"
+      - "Mega Man 6"
+      - "Pipe Dream"
+      - "Power Blade"
+      - "Punch Out"
+      - "Smash TV"
+
+  - name: "Nintendo SNES"
+    games:
+      - "Cybernator"
+      - "Earthbound"
+      - "Final Fantasy II"
+      - "Joe & Mac"
+      - "Plok"
+      - "Super Game Boy"
+      - "Super Punch Out"
+      - "The Simpsons: Virtual Bart"
+
+  - name: "Nintendo 64"
+    games:
+      - "Mario Tennis"
+      - "Super Smash Bros."
+      - "The Legend of Zelda: Majora's Mask"
+
+  - name: "Nintendo Gamecube"
+    games:
+      - "Animal Crossing"
+      - "Eternal Darkness"
+      - "Metroid Prime 2"
+      - "Resident Evil 0"
+
+  - name: "Sega Genesis"
+    games:
+      - "Castlevania Bloodlines"
+      - "Comix Zone"
+      - "Contra: Hard Corps"
+      - "Golden Axe"
+      - "Gunstar Heroes"
+      - "Mutant League Football"
+      - "Mutant League Hockey"
+      - "Phantasy Star"
+      - "Shining Series"
+      - "Shinobi Series"
+      - "Streets of Rage"
+      - "Toe Jam and Earl"
+
+  - name: "Sega CD"
+    owned:
+      - "Batman Returns"
+      - "Lethal Enforcers"
+      - "Star Wars Chess"
+    games:
+      - "Lunar Series"
+      - "Snatcher"
+
+  - name: "Sega Dreamcast"
+    games:
+      - "Bust-A-Move 4"
+      - "ChuChu Rocket"
+      - "Crazy Taxi"
+      - "Dead or Alive 2"
+      - "Ikaruga"
+      - "Jet Grind Radio"
+      - "Marvel vs Capcom 2"
+      - "Mr. Driller"
+      - "Radiant Silvergun"
+      - "Sega Rally Championship"
+      - "Shenmue"
+      - "Sonic Adventure"
+      - "Soul Calibur"
+      - "Street Fighter Series"
+      - "Tony Hawk's Pro Skater 2"
+      - "Virtua Tennis"
+
+  - name: "Sony Playstation"
+    owned:
+      - "Crusader: No Remorse"
+      - "Ogre Battle"
+      - "Street Fighter EX Plus Alpha"
+    games:
+      - "Ape Escape"
+      - "Breath of Fire Series"
+      - "Clock Tower"
+      - "Crash Bandicoot 2"
+      - "Crash Bandicoot 3"
+      - "Einhander"
+      - "Grandia"
+      - "Intelligent Qube"
+      - "Lunar Series"
+      - "Medievil"
+      - "Parappa the Rapper"
+      - "Resident Evil"
+      - "Resident Evil Series"
+      - "Suikoden"
+
+  - name: "Sony Playstation 2"
+    owned:
+      - "Fatal Frame 2"
+
+  - name: "Microsoft XBox"
+    games:
+      - "None"

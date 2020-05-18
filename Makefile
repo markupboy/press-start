@@ -6,7 +6,6 @@ build:
 	@echo "===== building ====="
 	@yarn install --frozen-lockfile
 	@yarn cache clean
-	@bundle install
 	@bundle exec middleman build
 
 deploy: build
