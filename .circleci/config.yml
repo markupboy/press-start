@@ -6,14 +6,14 @@ jobs:
       - checkout
       - run: |
           docker login -u $DOCKERHUB_USER -p $DOCKERHUB_PASSWORD
-          docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy/markupboy:latest
+          docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy/press-start:latest
   deploy:
     machine: true
     steps:
       - checkout
       - run: |
           docker login -u $DOCKERHUB_USER -p $DOCKERHUB_PASSWORD
-          docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy/markupboy:latest make deploy
+          docker run -v ${PWD}:/app -e AWS_ACCESS_KEY_ID -e AWS_SECRET_ACCESS_KEY markupboy/press-start:latest make deploy
 workflows:
   version: 2
   build_and_deploy:
