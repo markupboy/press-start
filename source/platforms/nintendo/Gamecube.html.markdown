@@ -15,6 +15,7 @@ title: Gamecube
 - Metroid Prime
 - Pikmin
 - Resident Evil
+- Resident Evil Zero
 - Sonic Adventure 2
 - Soul Calibur 2
 - Star Wars Rouge Squadron II: Rouge Leader
