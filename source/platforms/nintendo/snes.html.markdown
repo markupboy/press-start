@@ -40,6 +40,7 @@ title: SNES
 - Street Fighter II
 - Street Fighter II Turbo
 - Super Castlevania IV
+- Super Game Boy
 - Super Ghoul's 'n Ghosts
 - Super Mario All-Stars
 - Super Mario Kart
@@ -49,6 +50,7 @@ title: SNES
 - Super Mario World 2: Yoshi's Island
 - Super Metroid
 - Super R-Type
+- Super Smash TV
 - Super Star Wars
 - Super Star Wars: Return of the Jedi
 - Super Star Wars: The Empire Strikes Back
