@@ -10,7 +10,9 @@ title: N64
 - Goldeneye 007
 - Legend of Zelda: Ocarina of Time, The
 - Mario Kart 64
+- Mario Tennis
 - Pilotwings 64
+- South Park
 - Star Wars Episode 1 Racer
 - Star Wars Rogue Squadron
 - Star Wars Shadows of the Empire
