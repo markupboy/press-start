@@ -23,10 +23,13 @@ title: NES
 - Chip and Dale's Rescue Rangers
 - Cobra Triangle
 - Contra
+- Cyber Stadium Series Base Wars
 - Deja Vu
 - Disney's Adventures in the Magic Kingdom
 - Duck Tales
 - Excitebike
+- Final Fantasy
+- Ghostbusters
 - Golf
 - Hogan's Alley
 - Kid Icarus
@@ -46,6 +49,7 @@ title: NES
 - Rad Racer
 - Simpsons: Bart vs. the Space Mutants, The
 - Simpsons: Bart vs. the World
+- Smash TV
 - Space Shuttle Project
 - Star Soldier
 - Stealth
