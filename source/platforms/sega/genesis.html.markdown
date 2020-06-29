@@ -53,5 +53,6 @@ title: Genesis
 - Urban Strike
 - Vectorman
 - Vectorman 2
+- Virtual Bart
 - X-Men
 - X-Men 2
