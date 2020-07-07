@@ -25,6 +25,7 @@ title: Playstation 2
 - Jak II
 - Katamari Damacy
 - Kingdom Hearts
+- Kingdom Hearts 2
 - Lord of the Rings: Two Towers
 - Max Payne
 - Mega Man X Collection
@@ -36,7 +37,7 @@ title: Playstation 2
 - Ratchet and Clank: Going Commando
 - Ratchet and Clank: Up Your Arsenal
 - Shadow of the Colossus
-- Shinbo
+- Shinobi
 - Sly Cooper
 - Spider-man 2
 - Tiger Woods PGA Tour 2003
