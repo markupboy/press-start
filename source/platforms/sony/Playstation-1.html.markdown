@@ -13,6 +13,7 @@ title: Playstation
 - Command & Conquer
 - Cool Boarders 2
 - Cool Boarders 3
+- Cool Boarders 4
 - Crash Bandicoot
 - Die Hard Trilogy
 - Driver
