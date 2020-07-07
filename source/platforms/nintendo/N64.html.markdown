@@ -5,6 +5,7 @@ title: N64
 #####N64
 
 - 1080°
+- Blast Corps
 - Cruis'n World
 - F-Zero X
 - Goldeneye 007
