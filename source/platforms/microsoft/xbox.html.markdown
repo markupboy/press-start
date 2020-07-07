@@ -23,4 +23,6 @@ title: XBox
 - Simpsons Road Rage, The
 - Soul Calibur
 - Star Wars Knights of the Old Republic
+- Star Wars Republic Commando
 - Street Fighter Anniversary Collection
+- Tony Hawk Pro Skater 4
