@@ -1,18 +1,14 @@
 systems:
   - name: "Nintendo NES"
     games:
-      - "Base Wars"
       - "Double Dragon Series"
-      - "Final Fantasy"
-      - "Ghostbusters"
       - "Lolo Series"
       - "Mega Man"
       - "Mega Man 6"
       - "Pipe Dream"
       - "Power Blade"
       - "Punch Out"
-      - "Smash TV"
-
+      
   - name: "Nintendo SNES"
     games:
       - "Cybernator"
@@ -20,13 +16,10 @@ systems:
       - "Final Fantasy II"
       - "Joe & Mac"
       - "Plok"
-      - "Super Game Boy"
       - "Super Punch Out"
-      - "The Simpsons: Virtual Bart"
-
+      
   - name: "Nintendo 64"
     games:
-      - "Mario Tennis"
       - "Super Smash Bros."
       - "The Legend of Zelda: Majora's Mask"
 
@@ -35,8 +28,7 @@ systems:
       - "Animal Crossing"
       - "Eternal Darkness"
       - "Metroid Prime 2"
-      - "Resident Evil 0"
-
+      
   - name: "Sega Genesis"
     games:
       - "Castlevania Bloodlines"
@@ -104,7 +96,3 @@ systems:
   - name: "Sony Playstation 2"
     owned:
       - "Fatal Frame 2"
-
-  - name: "Microsoft XBox"
-    games:
-      - "None"
