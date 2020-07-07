@@ -25,11 +25,13 @@ title: XBox 360
 - Dark Souls
 - Dead Island
 - Dead or Alive 4
+- Dead or Alive Xtreme 2
 - Dead Rising
 - Dead Space
 - Dead Space 2
 - Deathsmiles
 - Deus Ex Human Revolution
+- Earth Defense Force 2017
 - Fable III (Digital)
 - Far Cry 3
 - Forza Horizon
@@ -61,6 +63,7 @@ title: XBox 360
 - Overlord
 - Persona 4 Arena (Digital)
 - Project Gotham Racing 3
+- Project Gotham Racing 4
 - Rage
 - Rainbow Six Vegas
 - Red Dead Redemption
