@@ -10,6 +10,7 @@ title: Gameboy Advance
 - F-Zero Maximum Velocity
 - Final Fantasy I & II: Dawn of Souls
 - Final Fantasy VI Advance
+- Golden Sun
 - Iridion II
 - Legend of Zelda: A Link to the Past Four Swords, The
 - Mario Kart Super Circuit
