@@ -7,4 +7,5 @@ title: Sega CD
 - Prize Fighter
 - Sewer Shark
 - Sonic CD
+- Star Wars Chess
 - Stellar Fire
