@@ -15,6 +15,7 @@ title: Playstation
 - Cool Boarders 3
 - Cool Boarders 4
 - Crash Bandicoot
+- Crusader: No Remorse
 - Die Hard Trilogy
 - Driver
 - Final Fantasy Anthology
@@ -37,6 +38,7 @@ title: Playstation
 - Star Wars Masters of Teras Kasi
 - Star Wars Rebel Assault II
 - Street Fighter Alpha 2
+- Street Fighter EX Plus Alpha
 - Tekken 2
 - Tomb Raider
 - Tomb Raider 2
