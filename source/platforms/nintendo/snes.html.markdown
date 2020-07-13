@@ -9,6 +9,7 @@ title: SNES
 - Chrono Trigger
 - Clayfighter Tournament Edition
 - Contra III
+- Cybernator
 - Donkey Kong Country
 - Donkey Kong Country 2: Diddy Kong's Quest
 - Earthworm Jim 2
