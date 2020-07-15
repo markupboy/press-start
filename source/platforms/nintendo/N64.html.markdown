@@ -9,9 +9,11 @@ title: N64
 - Cruis'n World
 - F-Zero X
 - Goldeneye 007
+- Legend of Zelda: Majora's Mask, The
 - Legend of Zelda: Ocarina of Time, The
 - Mario Kart 64
 - Mario Tennis
+- Perfect Dark
 - Pilotwings 64
 - South Park
 - Star Wars Episode 1 Racer
