@@ -10,6 +10,8 @@ title: Gameboy Advance
 - F-Zero Maximum Velocity
 - Final Fantasy I & II: Dawn of Souls
 - Final Fantasy VI Advance
+- Final Fantasy Tactics Advance
+- Final Fight One
 - Golden Sun
 - Iridion II
 - Legend of Zelda: A Link to the Past Four Swords, The
@@ -20,3 +22,6 @@ title: Gameboy Advance
 - Metroid: Zero Mission
 - Pokemon FireRed Version
 - Sonic Advance
+- Super Mario Advance 2 - Super Mario World
+- Super Mario Advance 4 - Super Mario Bros 3
+- Sword of Mana
