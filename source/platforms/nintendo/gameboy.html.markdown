@@ -4,7 +4,7 @@ title: Gameboy
 
 #####Gameboy
 
-- CosmoTank
+- Cosmo Tank
 - Dr. Mario
 - Kirby's Dream Land
 - Legend of Zelda: Link's Awakening, The

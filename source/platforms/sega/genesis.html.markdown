@@ -4,14 +4,14 @@ title: Genesis
 
 #####Genesis
 
-- 6-Pack
+- 6-Pak
 - Aladdin
 - Altered Beast
 - Batman Forever
 - Batman Returns
-- Battletoads / Double Dragon
+- Battletoads and Double Dragon The Ultimate Team
 - Cyborg Justice
-- Dynamite Heady
+- Dynamite Headdy
 - Earthworm Jim
 - Ecco the Dolphin
 - Ecco the Tides of Time
@@ -44,7 +44,7 @@ title: Genesis
 - Sonic the Hedgehog 2
 - Sonic the Hedgehog 2
 - Sonic the Hedgehog 3
-- Spider-man Venom Maximum Carnage
+- Spiderman Maximum Carnage
 - Star Control
 - Street Fighter II Special Champion Edition
 - Strider

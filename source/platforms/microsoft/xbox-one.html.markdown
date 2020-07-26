@@ -5,9 +5,9 @@ title: XBox One
 #####XBox One
 
 - Ace Combat 7: Skies Unknown
-- Borderland 3
+- Borderlands 3
 - Call of Duty: Advanced Warfare
-- Call of Duty: Black Ops 2
+- Call of Duty: Black Ops III
 - Call of Duty: Black Ops 4 (Digital)
 - Call of Duty: Ghosts
 - Cuphead (Digital)
@@ -27,7 +27,7 @@ title: XBox One
 - Halo 5 (Digital)
 - Need for Speed Heat
 - Outer Worlds, The
-- Player Unknown's Battlegrounds  (Digital)
+- Player Unknown's Battlegrounds (Digital)
 - Rare Replay
 - Rocket League (Digital)
 - Rise of the Tomb Raider

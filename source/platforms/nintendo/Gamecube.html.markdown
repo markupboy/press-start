@@ -18,7 +18,7 @@ title: Gamecube
 - Resident Evil Zero
 - Sonic Adventure 2
 - Soul Calibur 2
-- Star Wars Rouge Squadron II: Rouge Leader
+- Star Wars Rogue Leader
 - Star Wars Rouge Squadron III: Rebel Strike
 - Star Wars Rouge Squadron III: Rebel Strike Preview Disc
 - Super Mario Sunshine

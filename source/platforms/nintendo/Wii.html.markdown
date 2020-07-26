@@ -12,5 +12,5 @@ title: Wii
 - New Super Mario Bros. Wii
 - Super Mario Galaxy
 - Super Mario Galaxy 2
-- Tatsunoko vs. Capcom
+- Tatsunoko vs. Capcom: Ultimate All Stars
 - Toy Story Mania

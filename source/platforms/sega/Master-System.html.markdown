@@ -7,5 +7,5 @@ title: Master System
 - Alex Kidd: The Lost Stars
 - Double Dragon
 - Outrun
-- Shinoobi
+- Shinobi
 - Zaxxon 3-D

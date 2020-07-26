@@ -16,5 +16,5 @@ title: Wii U
 - Super Mario 3d World
 - Super Mario Maker
 - Super Smash Bros for Wii U
-- Wunderful 101
+- Wonderful 101
 - ZombiU

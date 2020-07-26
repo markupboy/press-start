@@ -1,5 +1,5 @@
 ---
-title: Switch
+title: Nintendo Switch
 ---
 
 #####Switch
@@ -10,7 +10,7 @@ title: Switch
 - Catherine Full Body
 - Diablo 3 Eternal Collection
 - Disgaea 5 Complete
-- Donky Kong Tropical Freeze
+- Donkey Kong Country Tropical Freeze
 - Legend of Zelda: Breath of the Wild, The
 - Legend of Zelda: Link's Awakening, The
 - Mario Kart 8 Deluxe
@@ -19,4 +19,3 @@ title: Switch
 - Super Bomberman R
 - Super Mario Odyssey
 - Super Mario Party
-

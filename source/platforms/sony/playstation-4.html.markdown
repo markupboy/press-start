@@ -8,8 +8,8 @@ title: Playstation 4
 - Battlefield 4
 - Bloodborne
 - Call of Duty: Black Ops 3
-- Crash Bandicoot Trilogy
-- Dark Souls 2
+- Crash Bandicoot N. Sane Trilogy
+- Dark Souls II: Scholar of the First Sin
 - Dead or Alive 5: Last Round
 - Dead Rising
 - Destiny
@@ -19,7 +19,7 @@ title: Playstation 4
 - F1 2015
 - F1 2016
 - F1 2018
-- F1 2019
+- F1 2019: Anniversary Edition
 - Fallout 4
 - Far Cry 4
 - Far Cry 5
@@ -32,17 +32,17 @@ title: Playstation 4
 - Just Cause 3
 - Killzone: Shadow Fall
 - Lego Harry Potter Collection
+- Marvel Spiderman
 - MediEvil
 - Metal Gear Solid V: The Phantom Pain
+- Middle Earth: Shadow of Mordor
 - Need for Speed Rivals
 - Persona 5
-- Pillars of Eternity
+- Pillars of Eternity Complete Edition
 - Ratchet and Clank
 - Rory McIlroy PGA Tour
-- Shadow of the Colossu
-- Shadows of Mordor
+- Shadow of the Colossus
 - South Park: The Fractured but Whole
-- Spider-Man
 - Star Wars Battlefront
 - The Last of Us Remastered
 - The Witcher 3: Wild Hunt

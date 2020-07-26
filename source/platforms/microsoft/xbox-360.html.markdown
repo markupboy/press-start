@@ -4,8 +4,8 @@ title: XBox 360
 
 #####XBox 360
 
-- Ace Combat: Assualt Horizon
-- Ace Combat 6
+- Ace Combat Assault Horizon
+- Ace Combat 6 Fires of Liberation
 - Assassin's Creed II (Digital)
 - Bayonetta
 - Bioshock
@@ -13,7 +13,7 @@ title: XBox 360
 - Bioshock Infinite
 - BlazBlue: Calamity Trigger
 - BlazBlue: Continuum Shift
-- Borderland
+- Borderlands
 - Borderlands 2
 - Call of Duty 2
 - Call of Duty 4: Modern Warfware
@@ -42,18 +42,19 @@ title: XBox 360
 - Gears of War 2
 - Gears of War 3
 - Geometry Wars Retro Evolved (Digital)
+- Ghost Recon Advanced Warfighter
 - Grand Theft Auto IV
 - Grand Theft Auto V
 - Halo 3
 - Halo 3
-- Halo ODST
+- Halo 3: ODST
 - Halo Reach
 - Halo Wars
 - Ikaruga (Digital)
 - King of Fighters XII, The
 - Left 4 Dead
 - Left 4 Dead 2
-- Lego Batman/Pure
+- LEGO Batman & Pure Double Pack
 - Lego Star Wars II: The Original Trilogy
 - Marvel vs. Capcom 3: Fate of Two Worlds
 - Mass Effect
@@ -79,7 +80,6 @@ title: XBox 360
 - Super Street Fighter IV
 - Tiger Woods PGA Tour 10
 - Tiger Woods PGA Tour 13
-- Tom Clancy's Ghost Recon Advanced Warrior
 - Tomb Raider
 - Too Human
 - Trials Evolution (Digital)

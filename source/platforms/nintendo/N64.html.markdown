@@ -1,10 +1,10 @@
 ---
-title: N64
+title: Nintendo 64
 ---
 
 #####N64
 
-- 1080°
+- 1080 Snowboarding
 - Blast Corps
 - Cruis'n World
 - F-Zero X
@@ -22,5 +22,5 @@ title: N64
 - Starfox 64
 - Super Mario 64
 - Super Mario 64
-- Turok
+- Turok Dinosaur Hunter
 - Wave Race 64

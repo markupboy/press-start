@@ -20,7 +20,7 @@ title: Gameboy Advance
 - Megaman Zero
 - Metroid Fusion
 - Metroid: Zero Mission
-- Pokemon FireRed Version
+- Pokemon Fire Red
 - Sonic Advance
 - Super Mario Advance 2 - Super Mario World
 - Super Mario Advance 4 - Super Mario Bros 3

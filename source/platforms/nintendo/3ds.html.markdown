@@ -12,5 +12,5 @@ title: 3DS
 - New Super Mario Bros. 2
 - Pokemon X
 - Pokemon Sun
-- Proffesor Layton and the Miracle Mask
+- Professor Layton and The Miracle Mask
 - Super Mario 3D Land

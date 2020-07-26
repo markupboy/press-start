@@ -34,14 +34,14 @@ title: SNES
 - Secret of Mana
 - Shadowrun
 - Sim City
-- Sim Earth
+- Sim Earth the Living Planet
 - Spider-man X-Men Arcade's Revenge
 - Star Fox
 - Star Trek the Next Generation
 - Street Fighter II
 - Street Fighter II Turbo
 - Super Castlevania IV
-- Super Game Boy
+- Super Gameboy
 - Super Ghoul's 'n Ghosts
 - Super Mario All-Stars
 - Super Mario Kart
@@ -58,7 +58,7 @@ title: SNES
 - Super Turrican: Directors Cut
 - The Simpson's Bart's Nightmare
 - Tiny Toon Adventures Buster Busts Loose
-- Turtles IV
+- Teenage Mutant Ninja Turtles IV Turtles in Time
 - UN Squadron
 - Uniracers
 - Vegas Stakes

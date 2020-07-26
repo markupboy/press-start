@@ -23,7 +23,7 @@ title: NES
 - Chip and Dale's Rescue Rangers
 - Cobra Triangle
 - Contra
-- Cyber Stadium Series Base Wars
+- Cyberstadium Series Base Wars
 - Deja Vu
 - Disney's Adventures in the Magic Kingdom
 - Duck Tales

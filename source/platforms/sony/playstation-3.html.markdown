@@ -4,7 +4,7 @@ title: Playstation 3
 
 #####Playstation 3
 
-- 3D Dot Game Heros
+- 3D Dot Game Heroes
 - Assasin's Creed
 - Batman Arkham Asylum
 - Batman Arkham City
@@ -15,16 +15,16 @@ title: Playstation 3
 - Dragon Age Origins
 - Fallout 3
 - Final Fantasy XIII
-- God of War
+- God of War III
 - Gran Turismo 5
 - Gran Turismo 5: Prologue
 - Heavy Rain
 - Killzone 2
-- Lost Planet
+- Lost Planet: Extreme Condition
 - Metal Gear Solid The Legacy Collection
 - Prototype
 - Ratchet and Clank Future: A Crack in Time
-- Ratchet and Clank Future: Into the Nexus
+- Ratchet & Clank: Into the Nexus
 - Ratchet and Clank Future: Tools of Destruction
 - Resistance: Fall of Man
 - The Last of Us

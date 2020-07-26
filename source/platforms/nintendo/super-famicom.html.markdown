@@ -1,8 +1,8 @@
 ---
-title: Super Familcom
+title: Super Famicom
 ---
 
 #####Super Famicom
 
-- Crayon Shin-Chan
+- Crayon Shin-chan: Arashi wo Yobu Enji
 - Super Mario World

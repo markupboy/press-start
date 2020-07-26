@@ -7,9 +7,9 @@ title: Famicom
 - Bomber Man
 - Devil World
 - Dr. Mario
-- Kid Dracula
+- Akumajou Special
 - King Kong 2
-- Kirby's Dream Land
+- Hoshi no Kirby
 - Mario Bros.
 - Pac-Man
 - Rockman 3

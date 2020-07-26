@@ -5,7 +5,7 @@ title: Playstation 2
 #####Playstation 2
 
 - .Hack//Infection
-- Armored Core
+- Armored Core 2
 - Bully
 - Devil May Cry
 - Dynasty Warriors 3
@@ -19,7 +19,7 @@ title: Playstation 2
 - Grand Theft Auto Vice City
 - Guitar Hero
 - Guitar Hero III
-- Hunter: The Reckoning
+- Hunter the Reckoning: Wayward
 - Jak 3
 - Jak and Daxter
 - Jak II
