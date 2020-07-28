@@ -10,6 +10,7 @@ title: Playstation 2
 - Devil May Cry
 - Dynasty Warriors 3
 - Enter the Matrix
+- Fatal Frame 2: Crimson Butterfly
 - Final Fantasy X
 - Final Fantasy XII
 - God of War
