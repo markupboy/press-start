@@ -88,7 +88,3 @@ systems:
       - "Resident Evil"
       - "Resident Evil Series"
       - "Suikoden"
-
-  - name: "Sony Playstation 2"
-    owned:
-      - "Fatal Frame 2"
