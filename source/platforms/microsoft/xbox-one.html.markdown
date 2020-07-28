@@ -5,6 +5,7 @@ title: XBox One
 #####XBox One
 
 - Ace Combat 7: Skies Unknown
+- Bloodstained: Ritual of the Night
 - Borderlands 3
 - Call of Duty: Advanced Warfare
 - Call of Duty: Black Ops III
