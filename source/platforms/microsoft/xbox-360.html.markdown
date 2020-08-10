@@ -5,85 +5,87 @@ title: XBox 360
 #####XBox 360
 
 - Ace Combat Assault Horizon
-- Ace Combat 6 Fires of Liberation
-- Assassin's Creed II (Digital)
-- Bayonetta
-- Bioshock
-- Bioshock 2
-- Bioshock Infinite
+- Ace Combat 6 Fires of Liberation* 
+- Assassin's Creed II (Digital)*
+- Bayonetta*
+- Bioshock*
+- Bioshock 2*
+- Bioshock Infinite*
 - BlazBlue: Calamity Trigger
 - BlazBlue: Continuum Shift
-- Borderlands
-- Borderlands 2
-- Call of Duty 2
-- Call of Duty 4: Modern Warfware
-- Call of Duty Black Ops
-- Call of Duty Black Ops II
-- Call of Duty Modern Warfare 2
+- Borderlands*
+- Borderlands 2*
+- Call of Duty 2*
+- Call of Duty 4: Modern Warfware*
+- Call of Duty Black Ops*
+- Call of Duty Black Ops II*
+- Call of Duty Modern Warfare 2*
 - Call of Duty Modern Warfare 3
 - Crackdown (Digital)
-- Dark Souls
+- Dark Souls*
 - Dead Island
 - Dead or Alive 4
 - Dead or Alive Xtreme 2
 - Dead Rising
-- Dead Space
-- Dead Space 2
+- Dead Space*
+- Dead Space 2*
 - Deathsmiles
-- Deus Ex Human Revolution
-- Earth Defense Force 2017
+- Deus Ex Human Revolution*
+- Earth Defense Force 2017*
 - Fable III (Digital)
-- Far Cry 3
-- Forza Horizon
+- Far Cry 3*
+- Forza Horizon*
 - Forza Motorsport 2
 - Forza Motorsport 3
 - Forza Motorsport 4
-- Gears of War
-- Gears of War 2
-- Gears of War 3
+- Gears of War*
+- Gears of War 2*
+- Gears of War 3*
 - Geometry Wars Retro Evolved (Digital)
 - Ghost Recon Advanced Warfighter
-- Grand Theft Auto IV
+- Grand Theft Auto IV*
 - Grand Theft Auto V
-- Halo 3
-- Halo 3
-- Halo 3: ODST
-- Halo Reach
-- Halo Wars
+- Halo 3*
+- Halo 3*
+- Halo 3: ODST*
+- Halo Reach*
+- Halo Wars*
 - Ikaruga (Digital)
 - King of Fighters XII, The
-- Left 4 Dead
-- Left 4 Dead 2
-- LEGO Batman & Pure Double Pack
-- Lego Star Wars II: The Original Trilogy
+- Left 4 Dead*
+- Left 4 Dead 2*
+- LEGO Batman & Pure Double Pack*
+- Lego Star Wars II: The Original Trilogy*
 - Marvel vs. Capcom 3: Fate of Two Worlds
-- Mass Effect
-- Mass Effect 2
-- Mirror's Edge
+- Mass Effect*
+- Mass Effect 2*
+- Mirror's Edge*
 - Need for Speed: Most Wanted
-- Overlord
+- Overlord*
 - Persona 4 Arena (Digital)
 - Project Gotham Racing 3
 - Project Gotham Racing 4
-- Rage
-- Rainbow Six Vegas
-- Red Dead Redemption
+- Rage*
+- Rainbow Six Vegas*
+- Red Dead Redemption*
 - Resident Evil 5
-- Shadowrun
+- Shadowrun*
 - Soul Calibur II (Digital)
 - Soul Calibur IV
 - Soul Calibur V
-- South Park The Stick of Truth
-- Star Wars The Force Unleashed
-- Star Wars The Force Unleashed II
-- Street Fighter IV
+- South Park The Stick of Truth*
+- Star Wars The Force Unleashed*
+- Star Wars The Force Unleashed II*
+- Street Fighter IV*
 - Super Street Fighter IV
 - Tiger Woods PGA Tour 10
 - Tiger Woods PGA Tour 13
 - Tomb Raider
-- Too Human
+- Too Human*
 - Trials Evolution (Digital)
 - Walking Dead, The (Digital)
 - Ultimate Marvel vs Capcom 3
 - Ultra Street Fighter IV
 - Virtua Fighter 5 Online
+
+* Compatible with the XBox One
