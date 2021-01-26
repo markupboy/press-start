@@ -4,41 +4,50 @@ title: PC
 
 # PC
 
-## Grade School
-
-- Mario Teaches Typing
-- Wolfenstein 3d
-- Duke Nukem 1 & 2
-
-## Junior High
-
-- Duke Nukem 3d
+- Aliens vs Predator 2
+- Battlefield 2
+- Black and White
+- Call of Duty
+- Diablo
+- Diablo II
+- Duke Nukem 3d Atomic Edition
+- Everquest II
+- Everquest: Ruins of Kunark
+- Everquest: Shadows of Luclin
+- Far Cry
+- Final Fantasy XI
+- Half-Life
+- Half-Life 2
+- Hexen II
+- Interstate '76
+- Magic the Gathering
+- Magic the Gathering: Spells of the Ancients
+- Mech Commander
+- Mechwarrior 2: Mercenaries
+- Myst
+- Need for Speed: High Stakes
+- Planescape Torment
 - Quake
 - Quake 2
-- Diablo
-- Ultima Online
-- X-Wing
-- Tie Fighter
-- Dark Forces
-
-## High School
-
-- Everquest
-- Fallout 2
-- X-Wing vs Tie Fighter
 - Quake 3 Arena
-- Command and Conquer: Red Alert
-- Half-Life
-- Counter Strike
-- Dark Reign
-
-## College
-
-- Diablo 2
-- Starcraft
-- Star Wars Galaxies
-- Warcraft 3
-- Everquest 2
-- Vampire: The Masquerade
-- Half-Life 2
-- Far Cry
+- Quake 3 Team Arena
+- Quake 4
+- Return to Zork
+- Speed
+- Star Wars Galaxies: The Total Experience
+- Star Wars: Dark Forces
+- Star Wars: Dark Forces II: Jedi Knight
+- Star Wars: Force Commander
+- Star Wars: Yoda Stories
+- StarCraft
+- StarCraft: Brood War
+- Tiger Woods PGA Tour 2002
+- Tom Clancy's Politika
+- Ultima Online
+- Unreal Tournament
+- Unreal Tournament 2003
+- Unreal Tournament 2004
+- Vampire The Masquerade: Bloodlines
+- World of Warcraft
+- World of Warcraft: Wrath of the Lich King
+- X-Wing vs Tie Fighter
