@@ -21,10 +21,6 @@ COPY Gemfile* /tmp/
 WORKDIR /tmp
 RUN bundle install
 
-# Install yarn and easily get it into PATH with a symlink
-# ADD https://github.com/yarnpkg/yarn/releases/download/v1.5.1/yarn-1.5.1.js /usr/local/bin/yarn
-# RUN chmod +x /usr/local/bin/yarn
-
 # Set working dir
 WORKDIR /app
 
