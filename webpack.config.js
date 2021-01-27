@@ -1,8 +1,10 @@
 var webpack = require("webpack");
-var ExtractTextPlugin = require("extract-text-webpack-plugin");
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 var Clean = require("clean-webpack-plugin");
 
 module.exports = {
+  mode: "production",
+
   entry: {
     pressstart: "./assets/javascript/bootstrap.js"
   },
@@ -22,47 +24,18 @@ module.exports = {
   },
 
   module: {
-    loaders: [
+    rules: [
       {
         test: /\.js$/,
         exclude: /node_modules/,
-        loader: "babel-loader"
+        use: {
+          loader: "babel-loader",
+        }
       },
       {
-        test: /\.css$/,
-        loader: ExtractTextPlugin.extract({
-          fallback: "style-loader",
-          use: [
-            "css-loader",
-            {
-              loader: "postcss-loader",
-              options: {
-                plugins: function() {
-                  return [require("autoprefixer")];
-                }
-              }
-            }
-          ]
-        })
+        test: /\.css$/i,
+        use: [MiniCssExtractPlugin.loader, 'css-loader'],
       },
-      {
-        test: /\.scss$|.sass$/,
-        loader: ExtractTextPlugin.extract({
-          fallback: "style-loader",
-          use: [
-            "css-loader",
-            {
-              loader: "postcss-loader",
-              options: {
-                plugins: function() {
-                  return [require("autoprefixer")];
-                }
-              }
-            },
-            "sass-loader"
-          ]
-        })
-      }
     ]
   },
 
@@ -76,6 +49,8 @@ module.exports = {
       }
     }),
     new Clean([".tmp"]),
-    new ExtractTextPlugin("assets/stylesheets/[name].bundle.css")
+    new MiniCssExtractPlugin({
+      filename: "assets/stylesheets/[name].bundle.css"
+    })
   ]
 };
