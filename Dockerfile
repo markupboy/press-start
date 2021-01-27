@@ -4,12 +4,13 @@ FROM ruby:2.7.2-alpine
 RUN apk --update add alpine-sdk nodejs npm
 
 # Install aws-cli
-# RUN \
-# 	mkdir -p /aws && \
-# 	apk -Uuv add groff less python python-dev py-pip && \
-# 	pip install awscli && \
-# 	apk --purge -v del py-pip && \
-# 	rm /var/cache/apk/*
+RUN apk add --no-cache \
+  python3 \
+  py3-pip \
+  && pip3 install --upgrade pip \
+  && pip3 install \
+  awscli \
+  && rm -rf /var/cache/apk/*
 
 # Fix timezone
 RUN apk add --update tzdata
