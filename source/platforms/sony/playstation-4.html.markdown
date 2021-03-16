@@ -12,6 +12,7 @@ title: Playstation 4
 - Dark Souls II: Scholar of the First Sin
 - Dead or Alive 5: Last Round
 - Dead Rising
+- Death Stranding
 - Destiny
 - Destiny 2
 - Doom
@@ -36,7 +37,9 @@ title: Playstation 4
 - MediEvil
 - Metal Gear Solid V: The Phantom Pain
 - Middle Earth: Shadow of Mordor
+- Monster Hunter World
 - Need for Speed Rivals
+- Nier: Atomata Game of the YoRHa Edition
 - Persona 5
 - Pillars of Eternity Complete Edition
 - Ratchet and Clank
@@ -44,8 +47,10 @@ title: Playstation 4
 - Shadow of the Colossus
 - South Park: The Fractured but Whole
 - Star Wars Battlefront
+- Super Monkey Ball Banana Blitz HD
 - The Last of Us Remastered
 - The Witcher 3: Wild Hunt
+- Trials of Mana
 - Uncharted 4: A Thief's End
 - Watchdogs
 - Wolfenstein: The New Order
