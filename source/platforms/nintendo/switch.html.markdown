@@ -15,6 +15,7 @@ title: Nintendo Switch
 - Legend of Zelda: Link's Awakening, The
 - Mario Kart 8 Deluxe
 - Mega Man 11
+- Ring Fit Adventure
 - Splatoon 2
 - Super Bomberman R
 - Super Mario Odyssey
