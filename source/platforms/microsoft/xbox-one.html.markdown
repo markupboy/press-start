@@ -24,6 +24,7 @@ title: XBox One
 - Forza Motorsport 7
 - Gears of War: Ultimate Edition
 - Gears of War 4
+- Gears 5
 - Halo: The Master Chief Collection
 - Halo 5 (Digital)
 - Need for Speed Heat
@@ -31,6 +32,7 @@ title: XBox One
 - Outer Worlds, The
 - Player Unknown's Battlegrounds (Digital)
 - Rare Replay
+- Resident Evil 2
 - Rocket League (Digital)
 - Rise of the Tomb Raider
 - Sekiro Shadows Die Twice
